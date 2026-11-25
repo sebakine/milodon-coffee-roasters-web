@@ -15,11 +15,9 @@
     "cafe",
     "ecommerce",
     "bootstrap",
-    "sass"
+    "sass",
+    "specialty-coffee"
   ],
   "author": "sebakine",
-  "license": "MIT",
-  "dependencies": {
-    "@lmstudio/sdk": "^1.5.0"
-  }
+  "license": "MIT"
 }
